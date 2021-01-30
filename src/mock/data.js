@@ -30,6 +30,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'blog',
+    title: 'Blog-Website',
+    info: 'Build first web app with MERN stack',
+    info2: 'Tech :- MongoDb, Node.js, Express, React.js, Redux, Jwt, Bootstrap',
+    url: 'https://mern-stack-image-gallery.herokuapp.com/',
+    repo: 'https://github.com/choton654/image-gallery_mern/tree/master', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'ecom-nextjs',
     title: 'Ecommerce_NextJs',
     info: 'This is a small ecommerce application with build with Next.js(Jamstack)',
