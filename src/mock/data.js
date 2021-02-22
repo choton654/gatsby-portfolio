@@ -57,6 +57,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'flipcart_clone',
+    title: 'Flipcart_clone',
+    info: 'Ecommerce website with MERN stack',
+    info2: 'Tech :- MongoDb, Node.js, Express, React, Paytm, Jwt, Material-Ui-React',
+    url: 'https://ecommerce-client-eight.vercel.app/',
+    repo: 'https://github.com/choton654/ecommerce-client', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'devconnector',
     title: 'Devconnector-NextJs',
     info: 'Social media website with Jamstack',
