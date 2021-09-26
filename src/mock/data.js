@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'Subhajit Paul',
+  name: 'Subhadeep Paul',
   subtitle: 'I am a Junior Web Developer',
   cta: '',
 };
@@ -112,6 +112,17 @@ export const projectsData = [
     url: 'https://twitter-clone-react-native.vercel.app/',
     repo: 'https://github.com/choton654/twitter-clone-react-native', // if no repo, the button will not show up
   },
+
+  // {
+  //   id: nanoid(),
+  //   img: 'cubicswap',
+  //   title: 'Cuicswap',
+  //   info: 'A b2b ecommerce app for wholesellers, retailers and large manufacturing companies.',
+  //   info2:
+  //     'Tech :- Mongodb, Node.js, React Native Web, Expo, Graphql, Apollo, React Navigation, React-Native-Paper',
+  //   url: 'https://cubicswap.herokuapp.com/',
+  //   repo: '',
+  // },
 ];
 
 // CONTACT DATA
