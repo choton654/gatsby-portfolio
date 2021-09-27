@@ -115,8 +115,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'phelix-Ai',
     title: 'Phelix-AI',
-    info: 'AI based healthcare website',
-    info2: 'Tech :- React, Nodejs',
+    info: 'AI based healthcare website for doctors and patients',
+    info2: 'Tech :- React, Nodejs, Emotion CSS, MongoDB',
     url: 'https://dev.blockhealth.co/v2/inbox/email',
   },
   // {
