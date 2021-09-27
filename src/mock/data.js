@@ -55,15 +55,15 @@ export const projectsData = [
     url: 'https://pro-shop-mern.herokuapp.com/',
     repo: 'https://github.com/choton654/proshop_mern', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'flipcart_clone',
-    title: 'Flipcart_clone',
-    info: 'Ecommerce website with MERN stack',
-    info2: 'Tech :- MongoDb, Node.js, Express, React, Paytm, Jwt, Material-Ui-React',
-    url: 'https://ecommerce-client-eight.vercel.app/',
-    repo: 'https://github.com/choton654/ecommerce-client', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'flipcart_clone',
+  //   title: 'Flipcart_clone',
+  //   info: 'Ecommerce website with MERN stack',
+  //   info2: 'Tech :- MongoDb, Node.js, Express, React, Paytm, Jwt, Material-Ui-React',
+  //   url: 'https://ecommerce-client-eight.vercel.app/',
+  //   repo: 'https://github.com/choton654/ecommerce-client', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'devconnector',
@@ -73,15 +73,15 @@ export const projectsData = [
     url: 'https://evening-refuge-87263.herokuapp.com',
     repo: 'https://github.com/choton654/devconnector-next-react-router', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'yelpcamp',
-    title: 'Yelpcamp',
-    info: 'Social media app with Jamstack',
-    info2: 'Tech :- MongoDb, Node.js, Express, React, Passport(auth), Material-Ui-React',
-    url: 'https://intense-peak-94725.herokuapp.com',
-    repo: 'https://github.com/choton654/yelpcamp_nextjs', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'yelpcamp',
+  //   title: 'Yelpcamp',
+  //   info: 'Social media app with Jamstack',
+  //   info2: 'Tech :- MongoDb, Node.js, Express, React, Passport(auth), Material-Ui-React',
+  //   url: 'https://intense-peak-94725.herokuapp.com',
+  //   repo: 'https://github.com/choton654/yelpcamp_nextjs', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'slack-clone',
@@ -92,7 +92,6 @@ export const projectsData = [
     url: 'https://slack-clone-next-graphql.herokuapp.com/',
     repo: 'https://github.com/choton654/slack-clone-graphql', // if no repo, the button will not show up
   },
-
   {
     id: nanoid(),
     img: 'socialmedia',
@@ -112,7 +111,14 @@ export const projectsData = [
     url: 'https://twitter-clone-react-native.vercel.app/',
     repo: 'https://github.com/choton654/twitter-clone-react-native', // if no repo, the button will not show up
   },
-
+  {
+    id: nanoid(),
+    img: 'phelix-Ai',
+    title: 'Phelix-AI',
+    info: 'AI based healthcare website',
+    info2: 'Tech :- React, Nodejs',
+    url: 'https://dev.blockhealth.co/v2/inbox/email',
+  },
   // {
   //   id: nanoid(),
   //   img: 'cubicswap',
