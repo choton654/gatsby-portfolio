@@ -108,7 +108,7 @@ export const projectsData = [
     info: 'Build twitter clone with react native web, graphql, apollo',
     info2:
       'Tech :- Postgres, Firebase(auth), Node.js, React Native, Prisma, Graphql-Nexus, Apollo, React Navigation, React-Native-Paper',
-    url: 'https://twitter-clone-react-native.vercel.app/',
+    // url: 'https://twitter-clone-react-native.vercel.app/',
     repo: 'https://github.com/choton654/twitter-clone-react-native', // if no repo, the button will not show up
   },
   {
